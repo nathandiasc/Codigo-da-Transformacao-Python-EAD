@@ -1,0 +1,3 @@
+Nome: Nathan
+Idade: 18
+Curso: Programação em Python

@@ -1,0 +1,10 @@
+{
+    "João": {
+        "idade": 25,
+        "cidade": "São Paulo"
+    },
+    "Maria": {
+        "idade": 30,
+        "cidade": "Rio de Janeiro"
+    }
+}
