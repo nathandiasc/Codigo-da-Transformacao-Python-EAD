@@ -1,6 +1,10 @@
+# 1. Importa funções específicas (multiplicar, dividir e em_moeda)
+# do pacote 'meu_pacote'.
+# 2. Executa e exibe no terminal os resultados dessas
+# funções formatados como moeda.
+
 from meu_pacote import multiplicar, dividir, em_moeda
 
-# Testando as funções importadas do pacote
 resultado_mult = multiplicar(25, 4)
 resultado_div = dividir(100, 3)
 

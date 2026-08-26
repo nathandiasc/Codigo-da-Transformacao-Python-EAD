@@ -1,3 +1,6 @@
+# 1. Importa o módulo 'utilidades' para reutilizar suas funções matemáticas.
+# 2. Executa e exibe no terminal os resultados dos testes para cada
+#    uma das operações disponíveis no módulo.
 
 import utilidades
 

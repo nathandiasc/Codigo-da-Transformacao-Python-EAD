@@ -1,3 +1,6 @@
+# Representa um livro individual no sistema.
+# Agrupa as características essenciais (título e autor)
+# e controla se a obra está disponível para empréstimo.
 class Livro:
     def __init__(self, titulo, autor):
         self.titulo = titulo
@@ -8,6 +11,9 @@ class Livro:
         status = "Disponível" if self.disponivel else "Emprestado"
         return f"'{self.titulo}' por {self.autor} [{status}]"
 
+# Representa o sistema gerenciador da biblioteca.
+# Armazena a coleção de livros em seu acervo e realiza
+# as operações do sistema (adicionar, emprestar e listar).
 
 class Biblioteca:
     def __init__(self):

@@ -1,3 +1,9 @@
+# 1. Importa a biblioteca faker para criar dados aleatórios.
+# 2. Importa o datetime para fornecer data e hora atual.
+# 3. Importa o módulo utilidades para reutilizar suas funções matemáticas.
+# 4. Executa e exibe no terminal os resultados dos testes para cada
+#    uma das operações disponíveis no módulo.
+
 import utilidades
 import datetime
 from faker import Faker

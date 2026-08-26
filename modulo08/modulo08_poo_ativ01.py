@@ -1,3 +1,6 @@
+# Representa um veículo no sistema.
+# Agrupa as características essenciais (marca e modelo)
+# e fornece ações para manipular e exibir esses dados.
 class Carro:
     def __init__(self, marca, modelo):
         self.marca = marca
