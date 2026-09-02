@@ -1,3 +1,9 @@
+# 1. Importa o módulo 'json' para manipulação e estruturação de arquivos JSON.
+# 2. Cria um dicionário com dados de clientes e define o nome do arquivo de destino.
+# 3. Salva o dicionário no arquivo 'clientes.json' com formatação legível (indentação e acentos).
+# 4. Lê e carrega os dados salvos do arquivo JSON de volta para o programa.
+# 5. Percorre o dicionário carregado e exibe as informações formatadas no terminal.
+
 import json
 
 clientes = {
