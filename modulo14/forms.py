@@ -1,6 +1,5 @@
-# produtos/forms.py
 from django import forms
-from .models import Produto
+from modulo14.models import Produto
 
 class ProdutoForm(forms.ModelForm):
     class Meta:
